@@ -12,7 +12,7 @@ Tools Used:
 Techniques Applied:
 - Exploratory Data Analysis
 - Feature Engineering
-- Supervised Machine Learning
+- Supervised Machine Learning 
 - Deep Learning Forecasting
 - Model Evaluation and Visualisation
 This project shows how predictive analytics can support pricing strategies and market competitiveness in the automotive resale industry.
